@@ -1,0 +1,18 @@
+{
+  "name": "req-header-parser-ms",
+  "version": "0.0.1",
+  "description": "FCC API Project - Request Header Parser Microservice",
+  "main": "app.js",
+  "scripts": {
+    "start": "node app",
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "",
+  "license": "MIT",
+  "dependencies": {
+    "express": "^4.13.4"
+  },
+  "engines": {
+    "node": "4.4.x"
+  }
+}
